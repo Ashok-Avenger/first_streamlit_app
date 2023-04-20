@@ -1,3 +1,3 @@
-import streamlit
+import streamlit st
 
-streamlit.title('I am a new Developer here!')
+st.title('I am a new Developer here!')
