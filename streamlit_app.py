@@ -1,2 +1,2 @@
-Import streamlit
-Streamlit.title(‘I am a new Developer here!’)
+Import streamlit;
+Streamlit.title(‘I am a new Developer here!’);
